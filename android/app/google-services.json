@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "821240669399",
+    "project_id": "enforce-46399",
+    "storage_bucket": "enforce-46399.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821240669399:android:de019175045d4822e97c92",
+        "android_client_info": {
+          "package_name": "com.enforce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821240669399-5a2orv2o58tf3hre75rm2if8mt5dbuvb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enforce",
+            "certificate_hash": "b927b9ee0c1e16c3e06eb8b026f13a646a4eb040"
+          }
+        },
+        {
+          "client_id": "821240669399-92p6gc26i7qlp3seu3n6antse7s8gtql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enforce",
+            "certificate_hash": "374facfd97f24599f8bdc0613aa9559abb6c83a2"
+          }
+        },
+        {
+          "client_id": "821240669399-9ltev4epe3jvafr7f16ao4p463gjn7c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnIKhZvuqilohH9Q6AoWzZDTilu7hAT4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821240669399-9ltev4epe3jvafr7f16ao4p463gjn7c0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "821240669399-tujjerju22pqch0dplct18q8su8ghcp1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.interfuture.enforce"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821240669399:android:cbdb77dfb9413152e97c92",
+        "android_client_info": {
+          "package_name": "com.enforcesolutions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821240669399-9ltev4epe3jvafr7f16ao4p463gjn7c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnIKhZvuqilohH9Q6AoWzZDTilu7hAT4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821240669399-9ltev4epe3jvafr7f16ao4p463gjn7c0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "821240669399-tujjerju22pqch0dplct18q8su8ghcp1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.interfuture.enforce"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
